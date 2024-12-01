@@ -25,6 +25,8 @@ This project addresses the challenge of navigating the vast landscape of academi
   - **Spectral Clustering**: Groups papers based on connectivity.
 - **Evaluation Metrics**:
   - **Silhouette Score**, **Davis-Bouldin Index**, **Calinski-Harabasz Index**.
+![KMeans](documentation/1.jpg)
+![Spectral](documentation/2.jpg)
 
 ---
 
